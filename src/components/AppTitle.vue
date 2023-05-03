@@ -1,23 +1,20 @@
 <script>
+export default {
+  name: 'AppTitle',
+  data() {
+    return {
 
-  export default{
-      name: "AppTitle",
-      data(){
-          return(
+    }
+  },
+  methods: {
 
-          )
-      },
-      methods: {
-
-      }
   }
+}
 
 </script>
 
 <template>
-   <h1>La mia prima app con Vite!</h1>
+  <h1>La mia prima app con Vite!</h1>
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
